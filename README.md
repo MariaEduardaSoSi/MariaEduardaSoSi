@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá eu sou a Maria Eduarda
+## Sobre mim 👩🏾:
+<p>Tenho 19 anos e sou Desenvolvedora de Software</p>
 
-<!--
-**MariaEduardaSoSi/MariaEduardaSoSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias 💻:
+<div align=center >
+ <img height="110rem" width="300rem" src="https://skillicons.dev/icons?i=html,css,js,&perline=3" />
+ </div>
 
-Here are some ideas to get you started:
+ ## Git Stats 📊:
+  <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
+  <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo 🦄:
+<div align=center>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=dd58c1)](https://www.linkedin.com/in/SEUUSERNAME/)
+
+</div>
