@@ -1,8 +1,8 @@
 <div align=center>
 
-# Olá eu sou a Maria Eduarda
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=FF98F2&background=923C8E&center=true&vCenter=true&random=true&width=435&height=75&lines=Sou+Desenvolvedora+Web+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sou+amante+de+tecnologia++%F0%9F%92%BB;Bem+vindo(a)+ao+meu+perfil!+%E2%9C%A8;Ol%C3%A1!+Me+chamo+Maria+Eduarda+%F0%9F%A5%B0)](https://git.io/typing-svg)
 ## Sobre mim 👩🏾:
-<p>Tenho 20 anos e sou Desenvolvedora de Software</p>
+<p>Tenho 20 anos e sou Desenvolvedora de Software.</p>
  
 ## Tecnologias 💻:
 <div align=center >
@@ -11,8 +11,8 @@
 
  ## Git Stats 📊:
  <div align=center >
-  <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
-  <img height="180rem" width="300rem" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
  </div>
  
 ## Conecte-se comigo 🦄:
