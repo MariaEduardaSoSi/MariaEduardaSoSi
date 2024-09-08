@@ -11,8 +11,8 @@
 
  ## Git Stats 📊:
  <div align=center >
-  <img height="160rem" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
-  <img height="160rem" width="400rem" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
+  <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
+  <img height="180rem" width="300rem" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaSoSi&layout=compact&langs_count=6&theme=jolly"/>
  </div>
  
 ## Conecte-se comigo 🦄:
