@@ -2,7 +2,7 @@
 
 # Olá eu sou a Maria Eduarda
 ## Sobre mim 👩🏾:
-<p>Tenho 19 anos e sou Desenvolvedora de Software</p>
+<p>Tenho 20 anos e sou Desenvolvedora de Software</p>
  
 ## Tecnologias 💻:
 <div align=center >
