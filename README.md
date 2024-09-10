@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=60&pause=1000&color=FF98F2&background=903B8B71&center=true&vCenter=true&random=true&width=1500&height=200&lines=Sou+Desenvolvedora+Web+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sou+amante+de+tecnologia++%F0%9F%92%BB;Bem+vindo(a)+ao+meu+perfil!+%E2%9C%A8;Ol%C3%A1!+Me+chamo+Maria+Eduarda+%F0%9F%A5%B0)](https://git.io/typing-svg)
 
 ## Sobre mim 👩🏾:
-<p>Tenho 20 anos e sou Desenvolvedora de Software.</p>
+<p>Atualmente estou estudando HTML, CSS e JS.</p>
  
 ## Tecnologias 💻:
 <div align=center >
